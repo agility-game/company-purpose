@@ -3,6 +3,13 @@ company-purpose
 
 Based on "Installing and Using Docker on Debian 11: Step-by-Step Guide" at https://shape.host/resources/installing-and-using-docker-on-debian-11-step-by-step-guide
 
+Run as follows:
+
+```
+$ cd containers/app
+$ docker-compose --file docker-compose.dev.yml --project-name company-purpose-dev up --build -d
+```
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
