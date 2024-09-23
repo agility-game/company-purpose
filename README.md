@@ -3,6 +3,8 @@ company-purpose
 
 Based on "Installing and Using Docker on Debian 11: Step-by-Step Guide" at https://shape.host/resources/installing-and-using-docker-on-debian-11-step-by-step-guide
 
+Based on "STORM" at https://storm.genie.stanford.edu/
+
 Run as follows:
 
 ```
