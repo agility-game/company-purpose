@@ -10,7 +10,7 @@ The below content was generated using "[STORM](https://storm.genie.stanford.edu/
 
 The evolution of company purpose is deeply rooted in historical shifts in ethical thought, from mercantilism to the Information Age, and has been shaped by advances in technology and cultural expectations. [4](https://www.mdpi.com/2071-1050/13/7/3899) [5](https://www.promarket.org/2021/02/17/corporate-purpose-affects-firms-compensation-great-place-work/). 
 
-In recent years, businesses are increasingly adopting purpose-driven models that align their operations with broader social goals, moving away from a narrow focus on profit maximization.[6](https://globe-one.com/blog/what-is-corporate-purpose/) [7](https://www.yourthoughtpartner.com/blog/purpose-statement). 
+In recent years, businesses are increasingly adopting purpose-driven models that align their operations with broader social goals, moving away from a narrow focus on profit maximization. [6](https://globe-one.com/blog/what-is-corporate-purpose/) [7](https://www.yourthoughtpartner.com/blog/purpose-statement). 
 
 This trend has prompted significant discourse on the distinctions between authentic commitment to purpose and superficial initiatives, often referred to as "purpose-washing" or "greenwashing." [3](https://pressbooks.hccfl.edu/businessethics/chapter/business-ethics-over-time/) [8](https://www2.deloitte.com/us/en/pages/operations/articles/value-of-corporate-purpose.html). 
 
